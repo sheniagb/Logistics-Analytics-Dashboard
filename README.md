@@ -138,12 +138,11 @@ If I were advising the business directly:
 ---
 
 ## 📷 Dashboard Preview  
-<img width="875" height="490" alt="image" src="https://github.com/user-attachments/assets/ce0198d6-319d-4a02-bd4d-4c86f324fc24" />
+<img width="4150" height="2400" alt="image" src="https://github.com/user-attachments/assets/f061682f-3e7f-4e2e-b963-a99de79cbdc2" />
 
+<img width="4150" height="2400" alt="image" src="https://github.com/user-attachments/assets/6a70edfa-786b-4fc8-b4a8-9788be0d98ac" />
 
-<img width="877" height="492" alt="image" src="https://github.com/user-attachments/assets/beb0fd59-0da0-4c2e-8023-f0d543afb61a" />
-
-<img width="795" height="482" alt="image" src="https://github.com/user-attachments/assets/ed58eb02-db6b-4ae7-8f36-94cbb5f42cb6" />
+<img width="4150" height="2400" alt="image" src="https://github.com/user-attachments/assets/4a63f264-7baf-4bfc-9718-741201dcb389" />
 
 ---
 
