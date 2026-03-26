@@ -138,7 +138,8 @@ If I were advising the business directly:
 ---
 
 ## 📷 Dashboard Preview  
-(Add your screenshots here)
+<img width="875" height="490" alt="image" src="https://github.com/user-attachments/assets/ce0198d6-319d-4a02-bd4d-4c86f324fc24" />
+
 
 ---
 
