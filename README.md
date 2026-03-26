@@ -11,7 +11,7 @@ The business was growing, but behind the scenes there were clear issues:
 - Some transport methods clearly underperforming  
 - Customer satisfaction not where it should be  
 
-So the goal here wasn’t just to build a dashboard — it was to figure out what’s actually going wrong and where improvements can be made.
+So the goal here wasn’t just to build a dashboard but to figure out what’s actually going wrong and where improvements can be made.
 
 ---
 
