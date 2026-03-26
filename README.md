@@ -82,7 +82,7 @@ This suggests the business isn’t aligning transport type with urgency properly
 ---
 
 ###  High-Priority Shipments Aren’t Being Treated Like Priority  
-You’d expect urgent deliveries to be the fastest — but that’s not always happening.
+You’d expect urgent deliveries to be the fastest but that’s not always happening.
 
 This points to:
 - Poor allocation of transport  
