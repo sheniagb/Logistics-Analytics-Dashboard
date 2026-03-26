@@ -141,6 +141,10 @@ If I were advising the business directly:
 <img width="875" height="490" alt="image" src="https://github.com/user-attachments/assets/ce0198d6-319d-4a02-bd4d-4c86f324fc24" />
 
 
+<img width="877" height="492" alt="image" src="https://github.com/user-attachments/assets/beb0fd59-0da0-4c2e-8023-f0d543afb61a" />
+
+<img width="795" height="482" alt="image" src="https://github.com/user-attachments/assets/ed58eb02-db6b-4ae7-8f36-94cbb5f42cb6" />
+
 ---
 
 ## 📁 Project Structure  
